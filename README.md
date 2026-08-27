@@ -19,6 +19,10 @@ MD/PhD — pediatric surgery, then five years in pharmacovigilance and medical a
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21328660.svg)](https://doi.org/10.5281/zenodo.21328660)
   Deterministic verifier kernel: extractor contracts, UNKNOWN-by-default fields, PASS / BLOCK / ABSTAIN with ordered reason codes, evaluation-only Silence oracle. Installable, tested, with expected outputs published for each fixture.
 
+- **[Audit the Verifier](https://github.com/sergey-morev/audit-the-verifier)**
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22081466.svg)](https://doi.org/10.5281/zenodo.22081466)
+  Development-terminal audit study: specializes finite-population weighted-sampling machinery to estimate joint dangerous-error risk inside a primary-model/verifier confident-agreement region under a fixed oracle budget. The frozen 48-of-48 structural-representation gate left the aggregate statistic undefined (`INCONCLUSIVE_BY_DEGENERACY`) — published as development evidence, not a confirmatory result.
+
 - **[CASEF — Clinical AI Safety Evaluation Framework](https://github.com/sergey-morev/CASEF-Clinical-AI-Safety-Evaluation-Framework)**
   ![Status](https://img.shields.io/badge/status-contract%20foundation%20v0.6.1-475569?style=flat-square)
   Qualification framework for LLM behavior under explicit constraints: spec → measurement → gates → evidence. v0.6.1 provides the contract foundation and validated schemas; the executable qualification pipeline does not exist yet. *Generation is cheap. Qualification is not.*
