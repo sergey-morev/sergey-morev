@@ -31,6 +31,10 @@ MD/PhD — pediatric surgery, then five years in pharmacovigilance and medical a
   [![Live demo](https://img.shields.io/badge/demo-live-16a34a?style=flat-square)](https://sergey-morev.github.io/space-model-lab-v3/)
   Case study of governed multi-agent development: a browser-based physics sandbox built by a provider-diverse AI team (architect, PM/auditor, gated single-writer executor) under human PI approval — with a decision log, commit-hash receipts, and a reproducible invariant baseline as the public review surface.
 
+- **[Allocortex — External Project State Management](https://github.com/sergey-morev/allocortex)**
+  [![Release v0.1.0](https://img.shields.io/badge/release-v0.1.0-475569?style=flat-square)](https://github.com/sergey-morev/allocortex/releases/tag/v0.1.0)
+  Documentation-first method for long-running AI-assisted projects: project-owned current state, accepted decisions, authoritative sources, and governed write-back / NO-OP across chats and tools. Portable where source access is available; experimental design preview, not an automatic memory service.
+
 - **[Modular Reasoning Framework (MRF)](https://github.com/sergey-morev/Modular-Reasoning-Framework-MRF)**
   ![Status](https://img.shields.io/badge/status-closed%20Jul%202026-94a3b8?style=flat-square)
   Retained as a historical artifact: external reasoning orchestration for fast language models — which I read in retrospect as a predecessor of the governed-orchestration work above.
